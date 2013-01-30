@@ -1,0 +1,12 @@
+'''
+Created on 30 Jan 2013
+
+@author: xj229
+'''
+
+
+print("Hello World!! from module")
+
+# OK another line 
+
+print("I added something!")
